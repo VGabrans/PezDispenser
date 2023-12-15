@@ -37,6 +37,7 @@ Open IntellyJ
 Copy Pez Dispenser project repository link 
 
 ````s
+https://github.com/VGabrans/PezDispenser.git
 ````
 </li>
 <li>
